@@ -5,9 +5,7 @@
 --color-default-dark: #562C91;
 --color-featured: #1FE9C5;
 --color-featured-dark: #16DAB7;
---color-base: #1B140D;
---color-light: #F1EFF6;
---color-dark:  #2b2b2b;
+
 }
 
 body{
@@ -67,7 +65,7 @@ hr{
 }
 .button-default:focus {
     color: var(--color-default) ;
-    background-color: var(--color-light);
+    background-color: #F8F8F8 ;
     box-shadow: 0 5px 5px rgba(0,0,0,.1);
 }
 
