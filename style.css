@@ -7,7 +7,6 @@
 --color-featured-dark: #16DAB7;
 
 }
-
 body{
     text-align: center;
 }
@@ -68,7 +67,6 @@ hr{
     background-color: #F8F8F8 ;
     box-shadow: 0 5px 5px rgba(0,0,0,.1);
 }
-
 .button-secondary{
     color: var(--color-default);
     background-color: transparent;
@@ -85,7 +83,6 @@ hr{
     box-shadow: 0 5px 5px rgba(86,44,145,.5);
     color: #fff;
 }
-
 /* CABEÇALHO */
 #banner{
     height: 100vh;
